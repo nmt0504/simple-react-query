@@ -1,0 +1,11 @@
+{
+  "name": "simple-react-query",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nmt0504/simple-react-query.git",
+  "author": "Toan Nguyen <toan.nguyen@persefoni.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
